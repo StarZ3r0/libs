@@ -3,6 +3,7 @@
 ## Javascript
 
 * [SweetAlert2](https://sweetalert2.github.io/)
+* [DropzoneJS](https://www.dropzonejs.com)
 
 ## PHP
 
