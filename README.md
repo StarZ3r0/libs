@@ -6,6 +6,10 @@
 * [DropzoneJS](https://www.dropzonejs.com)
 * [Pickr](https://github.com/Simonwep/pickr)
 
+### Flip counters
+* [FlipClock.js](http://flipclockjs.com/)
+* [flip](https://pqina.nl/flip/)
+
 ## PHP
 
 * [EmailValidator](https://github.com/egulias/EmailValidator)
