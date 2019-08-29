@@ -13,6 +13,9 @@
 ### Date pickers
 * [Zebra Datepicker](https://github.com/stefangabos/Zebra_Datepicker)
 
+### Validators
+* [Parsley](https://parsleyjs.org/)
+
 ## PHP
 
 * [EmailValidator](https://github.com/egulias/EmailValidator)
