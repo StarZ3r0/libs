@@ -10,6 +10,9 @@
 * [FlipClock.js](http://flipclockjs.com/)
 * [flip](https://pqina.nl/flip/)
 
+### Date pickers
+* [Zebra Datepicker](https://github.com/stefangabos/Zebra_Datepicker)
+
 ## PHP
 
 * [EmailValidator](https://github.com/egulias/EmailValidator)
