@@ -1,22 +1,29 @@
 # Useful libraries
 
-## Javascript
+# Javascript / jQuery
 
 * [SweetAlert2](https://sweetalert2.github.io/)
 * [DropzoneJS](https://www.dropzonejs.com)
 * [Pickr](https://github.com/Simonwep/pickr)
 
-### Flip counters
+## Flip counters
+
 * [FlipClock.js](http://flipclockjs.com/)
 * [flip](https://pqina.nl/flip/)
 
-### Date pickers
+## Date pickers
+
 * [Zebra Datepicker](https://github.com/stefangabos/Zebra_Datepicker)
 
-### Validators
+## Validators
+
 * [Parsley](https://parsleyjs.org/)
 
-## PHP
+## Lightbox
+
+* [PhotoSwipe](https://photoswipe.com/)
+
+# PHP
 
 * [EmailValidator](https://github.com/egulias/EmailValidator)
 * [Money](http://moneyphp.org/en/stable/)
