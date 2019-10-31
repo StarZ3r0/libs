@@ -1,5 +1,10 @@
 # Useful libraries
 
+# Icons
+
+* [FontAwesome](https://fontawesome.com/)
+* [Line Awesome](https://icons8.com/line-awesome)
+
 # Javascript / jQuery
 
 * [SweetAlert2](https://sweetalert2.github.io/)
