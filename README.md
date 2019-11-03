@@ -11,6 +11,11 @@
 * [DropzoneJS](https://www.dropzonejs.com)
 * [Pickr](https://github.com/Simonwep/pickr)
 
+## Sortables
+
+* [SortableJS](https://sortablejs.github.io/Sortable/)
+* [jQuery Sortable](http://johnny.github.io/jquery-sortable/)
+
 ## Flip counters
 
 * [FlipClock.js](http://flipclockjs.com/)
